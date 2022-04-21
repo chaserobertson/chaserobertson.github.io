@@ -46,9 +46,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/DataDragoon      # change to your twitter homepage
     - https://github.com/chaserobertson       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/chaserobertson
+    - https://www.linkedin.com/in/chase-robertson
 
 google_site_verification:               # fill in to your verification string
 
