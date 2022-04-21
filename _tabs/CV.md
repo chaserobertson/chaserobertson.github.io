@@ -11,6 +11,6 @@ Last Updated: {{ cvs[0].modified_time }}
 
 <object data="{{ cvs[0].path }}" type="application/pdf" width="100%" height=700px>
     <embed src="{{ cvs[0].path }}">
-        <p>This browser does not support PDFs. You can view it <a href="{{ cvs[0].path }}">here</a>.</p>
+        <p>This browser does not support PDFs. You can view it <a href="{{ site.baseurl }}{{ cvs[0].path }}">here</a>.</p>
     </embed>
 </object>
