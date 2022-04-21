@@ -1,7 +1,8 @@
 ---
 layout: archives
-title: Archives
+title: Archive
 icon: fas fa-archive
 order: 3
+published: false
 ---
 
