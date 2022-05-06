@@ -1,6 +1,6 @@
 ---
 title: Resume
-order: 1
+order: 2
 icon: fas fa-user
 ---
 

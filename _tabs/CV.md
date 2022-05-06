@@ -1,6 +1,6 @@
 ---
 title: CV
-order: 2
+order: 3
 icon: fas fa-address-card
 ---
 
