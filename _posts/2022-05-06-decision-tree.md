@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Decision Tree Practice"
-tags: machine-learning decision-tree
-categories: machine-learning
+tags: python sklearn machine-learning decision-tree
+categories: 
+    - Machine Learning
 ---
 
 In this post, I compare 3 decision tree models pruned with different techniques. Analysis is conducted using 3 separate datasets to show how tree depth interacts with the dimensions of the dataset.

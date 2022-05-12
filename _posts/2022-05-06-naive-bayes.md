@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Naive Bayes Classification"
-tags: machine-learning naive-bayes
-categories: machine-learning
+tags: python sklearn machine-learning naive-bayes
+categories: 
+    - Machine Learning
 ---
 
 This post details the development process for my submission to the [Point-of-Interest Categorization](https://www.kaggle.com/competitions/point-of-interest-categorization/overview) competition on Kaggle.
