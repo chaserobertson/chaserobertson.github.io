@@ -6,7 +6,7 @@
 {% assign wrap_elem = include.wrap | default: 'em' %}
 
 {% if site.prefer_datetime_locale == 'en' or lang == 'en' %}
-  {% assign df_strftime = '%b %e, %Y' %}
+  {% assign df_strftime = '%e %b %Y' %}
   {% assign df_dayjs = 'll' %}
 {% else %}
   {% assign df_strftime = '%F' %}
