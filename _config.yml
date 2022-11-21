@@ -35,7 +35,7 @@ github:
   username: chaserobertson             # change to your github username
 
 twitter:
-  username: DataDragoon            # change to your twitter username
+  username: chase__rob            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,7 +44,7 @@ social:
   email: chaserobertson208@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/DataDragoon      # change to your twitter homepage
+    - https://twitter.com/chase__rob      # change to your twitter homepage
     - https://github.com/chaserobertson       # change to your github homepage
     - https://www.linkedin.com/in/chase-robertson
 
