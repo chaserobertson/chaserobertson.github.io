@@ -26,7 +26,7 @@ title: Chase Robertson                          # the main title
 tagline: Data Scientist   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Future Master of Data Science at The University of Auckland. Seeking an internship for Winter 2022.
+  Future Master of Data Science at The University of Auckland.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://chaserobertson.github.io'
@@ -36,6 +36,9 @@ github:
 
 twitter:
   username: chase__rob            # change to your twitter username
+
+linkedin:
+  username: chase-robertson
 
 social:
   # Change to your full name.
