@@ -9,9 +9,10 @@ Browse to [http://localhost:4000](http://localhost:4000)
 
 # Dev machine setup
 
-`brew install chruby ruby-install`
-
-`ruby-install ruby`
+```
+brew install chruby ruby-install
+ruby-install ruby
+```
 
 ```
 echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
@@ -21,8 +22,10 @@ echo "chruby ruby-3.1.2" >> ~/.zshrc # run 'chruby' to see actual version
 
 Quit and relaunch Terminal
 
-`ruby -v`
-
-`gem install jekyll bundler`
+```
+ruby -v
+gem install jekyll bundler`
+bundle install
+```
 
 [source](https://jekyllrb.com/docs/installation/macos/)
