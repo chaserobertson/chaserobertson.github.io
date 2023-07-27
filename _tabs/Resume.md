@@ -6,7 +6,7 @@ icon: fas fa-user
 
 {% assign resumes = site.static_files | where_exp: "file", "file.basename contains 'Resume'" %}
 
-[View Original]({{ resumes[0].path }})
+[Download File]({{ resumes[0].path }})
 (Last Updated: {{ resumes[0].modified_time | date: "%Y-%m-%d" }})
 
 <object data="{{ resumes[0].path }}" type="application/pdf" width="100%" height=700px>
