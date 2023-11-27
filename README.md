@@ -8,7 +8,7 @@ This was created using the Chirpy Starter [![Gem Version](https://img.shields.io
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
 
 
-## Update instructions
+## Local server
 
 `bundle exec jekyll serve --livereload` from project root directory.
 
@@ -16,25 +16,8 @@ Browse to [http://localhost:4000](http://localhost:4000)
 
 [source](https://jekyllrb.com/docs/)
 
-## Dev machine setup
+## Local setup
 
-```
-brew install chruby ruby-install
-ruby-install ruby
-```
-
-```
-echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
-echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
-echo "chruby $(chruby | xargs)" >> ~/.zshrc
-```
-
-Quit and relaunch Terminal
-
-```
-ruby -v
-gem install jekyll bundler`
-bundle install
-```
+See `dev-setup.sh` 
 
 [source](https://jekyllrb.com/docs/installation/macos/)
